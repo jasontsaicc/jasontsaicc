@@ -80,11 +80,8 @@
 
 ## LeetCode Stats  
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jasontsaicc?theme=dark&font=McLaren&site=cn)](https://leetcard.jacoblin.cool/jasontsaicc?theme=dark&font=McLaren&site=cn)
- 
- [![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
- 
- ![![LeetCode Stats](https://leetcard.jacoblin.cool/jasontsaicc?theme=dark&font=McLaren&site=cn)](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)
+
+ ![![LeetCode Stats](https://leetcard.jacoblin.cool/jasontsaicc?theme=dark&font=McLaren&site=cn)](https://leetcard.jacoblin.cool/jasontsaicc?border=0&radius=20)
 <br />
 
 ----
