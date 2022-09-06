@@ -80,20 +80,12 @@
 
 ## LeetCode Stats  
 
-[![CodeFactor](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card)
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
   
 
 <br/>  
 
   
-
-<br/>  
-
-  
-
-<br/>  
-
 
 <br />
 
