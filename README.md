@@ -81,7 +81,7 @@
 ## LeetCode Stats  
 
 
- ![![LeetCode Stats](https://leetcard.jacoblin.cool/jasontsaicc?theme=dark&font=McLaren&site=cn)](https://leetcard.jacoblin.cool/jasontsaicc?border=0&radius=20)
+ ![![LeetCode Stats](https://leetcard.jacoblin.cool/jasontsaicc?theme=dark&font=McLaren&site=cn)](https://leetcard.jacoblin.cool/jasontsaicc?border=0&radius=20&site=cn)
 <br />
 
 ----
