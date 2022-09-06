@@ -80,7 +80,7 @@
 
 ## LeetCode Stats  
 
-- [![LeetCode Stats](https://leetcard.jacoblin.cool/jasontsaicc?theme=dark&font=Grenze&site=cn)]
+[![CodeFactor](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card)
 
   
 
