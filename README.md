@@ -80,7 +80,7 @@
 
 ## LeetCode Stats  
 
-- ![LeetCode Stats](https://leetcard.jacoblin.cool/jasontsaicc?theme=dark&font=Grenze&site=cn)  
+- [![LeetCode Stats](https://leetcard.jacoblin.cool/jasontsaicc?theme=dark&font=Grenze&site=cn)]
 
   
 
