@@ -79,7 +79,7 @@
 <br/>  
 
 ## LeetCode Stats  
-![Leetcode Stats](https://leetcard.jacoblin.cool/jasontsaicc?ext=activity&theme=dark&font=McLaren&site=cn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/jasontsaicc?theme=dark&font=McLaren&site=cn)
 
 
 
