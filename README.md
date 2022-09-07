@@ -84,9 +84,8 @@
 
 
 ## LeetCode Stats  
-<div align="center">
-![Leetcode Stats](https://leetcard.jacoblin.cool/jasontsaicc?animation=false&theme=dark&font=McLaren&site=cn)
-</div>  
+
+<center>![Leetcode Stats](https://leetcard.jacoblin.cool/jasontsaicc?animation=false&theme=dark&font=McLaren&site=cn)</center>
 
 
  
