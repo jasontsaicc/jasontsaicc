@@ -85,7 +85,7 @@
 
 ## LeetCode Stats  
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/jasontsaicc&site=cn)
+![](https://leetcard.jacoblin.cool/jasontsaicc?site=cn)
 
 
  
