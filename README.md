@@ -6,10 +6,13 @@
 ### <div align="center">I'm jason, a full-time developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently learning data structure   
-  
+- 🔭 I’m currently learning data structure  
 
-- 🌱 I’m currently learning Python  
+- 💡 I Fluent language is Python
+  
+- 🌱 I’m currently study in tibame Al智慧應用開發實戰班
+
+
   
 
 
@@ -88,6 +91,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jasontsaicc)
 
+<div align="left"><img src="https://leetcard.jacoblin.cool/jasontsaicc" align="center" /></div>  
 <br />
 
 ----
