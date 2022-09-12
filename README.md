@@ -81,7 +81,7 @@
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=jasontsaicc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jasontsaicc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -91,7 +91,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jasontsaicc)
 
-<div align="left"><img src="https://leetcard.jacoblin.cool/jasontsaicc" align="center" /></div>  
+<div align="center"><img src="https://leetcard.jacoblin.cool/jasontsaicc" align="center" /></div>  
 <br />
 
 ----
