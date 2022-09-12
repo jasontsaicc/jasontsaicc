@@ -88,9 +88,6 @@
 
 ## LeetCode Stats  
 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/jasontsaicc)
-
 <div align="center"><img src="https://leetcard.jacoblin.cool/jasontsaicc" align="center" /></div>  
 <br />
 
