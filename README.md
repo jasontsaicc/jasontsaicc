@@ -10,19 +10,6 @@ Currently deepening my skills in system design and site reliability engineering.
 
 ---
 
-#### Featured Projects
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [eks-devops-toolkit](https://github.com/jasontsaicc/eks-devops-toolkit) | Full DevOps platform on EKS with GitOps | EKS · Jenkins · Prometheus |
-| [eks-terraform-karpenter](https://github.com/jasontsaicc/eks-terraform-karpenter) | Cost-optimized EKS with auto-scaling | Terraform · Karpenter · Spot |
-| [asiayo-sre-test](https://github.com/jasontsaicc/asiayo-sre-test) | SRE take-home: HA infrastructure + K8s deployment | Terraform · EKS · MySQL |
-| [system-design-notes](https://github.com/jasontsaicc/system-design-notes) | 61-day system design deep dive with PoCs | Go · Docker · Distributed Systems |
-| [terraform-localstack-aws-sandbox](https://github.com/jasontsaicc/terraform-localstack-aws-sandbox) | Local AWS testing environment | Terraform · LocalStack |
-| [cicd-pipeline-demo](https://github.com/jasontsaicc/cicd-pipeline-demo) | Jenkins to ECS Fargate pipeline | Jenkins · Terraform · Docker |
-
----
-
 #### Tech Stack
 
 **Infrastructure** — AWS (EKS, ECS, EC2, S3, RDS, Lambda, Outposts) · OCI · Terraform · Ansible
