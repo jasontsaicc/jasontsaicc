@@ -1,53 +1,48 @@
-# Jason Tsai
+### Jason Tsai — DevOps / SRE Engineer
 
-## Cloud Engineer | DevOps Specialist | Infrastructure Automator
+Building reliable, scalable infrastructure on AWS and Kubernetes.
 
----
+I design production-grade platforms with Terraform, automate everything with CI/CD,
+and optimize costs with tools like Karpenter and Spot instances.
+Currently deepening my skills in system design and site reliability engineering.
 
-### About Me
-
-I’m a Cloud Engineer with hands-on experience in building and maintaining enterprise infrastructure using AWS, Kubernetes, Terraform, and Jenkins.  
-Currently working at eCloudvalley, I've previously delivered production-grade cloud solutions for life insurance platforms with strict compliance and uptime requirements.
-
----
-
-### Professional Highlights
-
-- AWS Outposts Project: Built and deployed hybrid cloud architecture with Terraform, ensuring secure, compliant, and highly available solutions.
-- Kubernetes Data Platform: Designed and deployed a Tableau data platform on EKS with CI/CD via AWS CodePipeline, significantly improving deployment automation.
-- VMware + Ansible: Automated RHEL-based infrastructure setup on vCenter/ESXi, increasing platform consistency and maintainability.
-- AI Image API: Built a Flask + TensorFlow-based produce recognition API deployed via Docker, supporting 1,000+ product scans with over 92% accuracy.
+> 具備混合雲架構（AWS Outposts）、合規金融產業環境的實戰經驗。
 
 ---
 
-### Tech Stack
+#### Featured Projects
 
-- **Cloud**: AWS (ECS, EKS, S3, EC2, Lambda, Outposts), IAM, CloudWatch, CodePipeline  
-- **IaC / Automation**: Terraform, Ansible
-- **Container**: Docker, Kubernetes  
-- **Backend**: Python, Flask, RESTful APIs  
-- **Database**: MySQL, MongoDB, Neo4j  
-- **CI/CD**: Jenkins, GitHub Actions  
-- **OS**: Linux (RHEL, Ubuntu), Shell scripting  
-
----
-
-### Certifications
-
-- AWS Certified Cloud Practitioner  
-- AWS Certified Solutions Architect - Associate  
-- Neo4j Certified Professional  
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [eks-devops-toolkit](https://github.com/jasontsaicc/eks-devops-toolkit) | Full DevOps platform on EKS with GitOps | EKS · Jenkins · Prometheus |
+| [eks-terraform-karpenter](https://github.com/jasontsaicc/eks-terraform-karpenter) | Cost-optimized EKS with auto-scaling | Terraform · Karpenter · Spot |
+| [asiayo-sre-test](https://github.com/jasontsaicc/asiayo-sre-test) | SRE take-home: HA infrastructure + K8s deployment | Terraform · EKS · MySQL |
+| [system-design-notes](https://github.com/jasontsaicc/system-design-notes) | 61-day system design deep dive with PoCs | Go · Docker · Distributed Systems |
+| [terraform-localstack-aws-sandbox](https://github.com/jasontsaicc/terraform-localstack-aws-sandbox) | Local AWS testing environment | Terraform · LocalStack |
+| [cicd-pipeline-demo](https://github.com/jasontsaicc/cicd-pipeline-demo) | Jenkins to ECS Fargate pipeline | Jenkins · Terraform · Docker |
 
 ---
 
-### Education & Training
+#### Tech Stack
 
-- TibaMe AI智慧應用開發實戰班 (Python, AI, Docker)  
-- 德明財經科技大學 - 保險金融管理系  
+**Infrastructure** — AWS (EKS, ECS, EC2, S3, RDS, Lambda, Outposts) · OCI · Terraform · Ansible
+
+**Containers & Orchestration** — Kubernetes · Docker · Karpenter · Helm
+
+**CI/CD** — Jenkins · GitHub Actions · AWS CodePipeline
+
+**Monitoring** — Prometheus · Grafana · CloudWatch
+
+**Languages** — Python · Go · Shell/Bash
+
+**OS** — Linux (RHEL, Ubuntu)
 
 ---
 
-### Contact
+#### Certifications
 
-- GitHub: https://github.com/jasontsaicc  
-- LinkedIn: https://linkedin.com/in/jason-tsai-399796248
+AWS Solutions Architect – Professional · AWS DevOps Engineer – Professional · AWS Security – Specialty · AWS Solutions Architect – Associate · AWS Cloud Practitioner · Neo4j Certified Professional
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/jason-tsai-cc/)
