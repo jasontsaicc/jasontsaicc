@@ -32,4 +32,13 @@ AWS Solutions Architect – Professional · AWS DevOps Engineer – Professional
 
 ---
 
+#### 🚀 Featured Projects｜精選專案
+- [EKS + Karpenter](https://github.com/jasontsaicc/eks-terraform-karpenter) — Terraform 建置 EKS，Spot + Karpenter 降低運算成本
+- [EKS DevOps Toolkit](https://github.com/jasontsaicc/eks-devops-toolkit) — Argo CD GitOps 平台，整合 Jenkins / SonarQube / Prometheus / Grafana
+- [OCI Infra Automation](https://github.com/jasontsaicc/oci-arm-infra-automation) — Terraform + Ansible 主機強化與監控
+- [Jenkins → ECS Pipeline](https://github.com/jasontsaicc/jenkins-ecs-pipeline) — 端到端 CI/CD 部署至 Fargate
+
+#### 👋 About｜關於我
+Open to DevOps / SRE / Platform Engineer roles in Taiwan & remote.
+
 [LinkedIn](https://www.linkedin.com/in/jason-tsai-cc/)
